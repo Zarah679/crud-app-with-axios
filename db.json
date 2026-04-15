@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Archibald Sangwin updated",
+      "email": "asangwin0@tinyurl.com",
+      "phone": "711-693-0000"
+    },
+    {
+      "id": 2,
+      "name": "Ernie MacDonald",
+      "email": "emacdonald1@last.fm",
+      "phone": "945-630-8313"
+    },
+    {
+      "id": 3,
+      "name": "Paulita Baigrie",
+      "email": "pbaigrie2@cnbc.com",
+      "phone": "478-662-8566"
+    },
+    {
+      "id": 4,
+      "name": "Joline Bywaters",
+      "email": "jbywaters3@fastcompany.com",
+      "phone": "408-837-8952"
+    },
+    {
+      "id": 5,
+      "name": "Shell Imlock",
+      "email": "simlock4@umn.edu",
+      "phone": "557-297-8094"
+    },
+    {
+      "id": 6,
+      "name": "Sayre Maine",
+      "email": "smaine5@nydailynews.com",
+      "phone": "244-283-6076"
+    },
+    {
+      "id": 7,
+      "name": "Bettine Pellingar",
+      "email": "bpellingar6@flickr.com",
+      "phone": "616-601-8462"
+    },
+    {
+      "id": 8,
+      "name": "Brittany Whipp",
+      "email": "bwhipp7@indiatimes.com",
+      "phone": "292-120-8292"
+    },
+    {
+      "id": 9,
+      "name": "Dierdre Penvarden",
+      "email": "dpenvarden8@free.fr",
+      "phone": "957-255-2333"
+    },
+    {
+      "id": 10,
+      "name": "Robers Cumine",
+      "email": "rcumine9@dropbox.com",
+      "phone": "816-582-0891"
+    },
+    {
+      "id": 11,
+      "name": "Vallie Weyland",
+      "email": "vweylanda@nhs.uk",
+      "phone": "135-715-2418"
+    },
+    {
+      "id": 12,
+      "name": "Anitra Frostdyke",
+      "email": "afrostdykeb@unicef.org",
+      "phone": "210-798-6076"
+    },
+    {
+      "id": 13,
+      "name": "Saudra De Malchar",
+      "email": "sdec@nps.gov",
+      "phone": "880-141-5402"
+    },
+    {
+      "id": 14,
+      "name": "Lucia Fenby",
+      "email": "lfenbyd@berkeley.edu",
+      "phone": "886-643-7761"
+    },
+    {
+      "id": 15,
+      "name": "Wiatt Tomenson",
+      "email": "wtomensone@archive.org",
+      "phone": "677-593-0803"
+    },
+    {
+      "id": 16,
+      "name": "Mac Godfree",
+      "email": "mgodfreef@phpbb.com",
+      "phone": "266-801-3047"
+    },
+    {
+      "id": 17,
+      "name": "Joane Bleibaum",
+      "email": "jbleibaumg@kickstarter.com",
+      "phone": "476-906-4335"
+    },
+    {
+      "id": 18,
+      "name": "Merline Ceresa",
+      "email": "mceresah@blog.com",
+      "phone": "421-855-6983"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
